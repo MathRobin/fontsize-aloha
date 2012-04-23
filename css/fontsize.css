@@ -1,0 +1,7 @@
+button.GENTICS_button_increase {
+    background-image: url(../img/multisplit-close.gif) !important;
+}
+
+button.GENTICS_button_decrease {
+    background-image: url(../img/multisplit-open.gif) !important;
+}
